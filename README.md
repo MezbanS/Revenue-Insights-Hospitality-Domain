@@ -28,7 +28,7 @@ As a data analyst has been provided with sample data and a mock-up dashboard to 
 
 
 # Dashboard Created 
-Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTliZjM4OTctYTAxNS00OGFiLWExMDYtMjg3ZTJkNDRiMDM1IiwidCI6Ijg3OTk3NzA5LWRlYzQtNDJmZi1hMDM3LTJlNDNmZWRjMzllNSJ9)
+Link to [[Interactive Dashboard]](https://www.novypro.com/project/revenue-insights---hospitality-domain-2)
 
 Using all the information and data provided by the stakeholders, I analyzed and created this report. This report shows metrics that will help solve the problems faced by AtliQ Grands’s management in generating good revenue.
 
