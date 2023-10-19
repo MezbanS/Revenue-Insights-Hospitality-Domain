@@ -74,6 +74,6 @@ This visual, when hovered over a calendar date, displays the performance metrics
 
 4. Week 29 recorded the highest revenue among all, which is 139.7 Million
 
-5. Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+5. Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
 
-6.Elite type rooms has the most booking and as well higher cancellation rate
+6. Elite type rooms has the most booking and as well higher cancellation rate
