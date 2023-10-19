@@ -1,7 +1,7 @@
 # AtliQ Hospitality Analysis - PowerBI
 
 
-Link to Interactive Dashboard https://app.powerbi.com/view?r=eyJrIjoiMTliZjM4OTctYTAxNS00OGFiLWExMDYtMjg3ZTJkNDRiMDM1IiwidCI6Ijg3OTk3NzA5LWRlYzQtNDJmZi1hMDM3LTJlNDNmZWRjMzllNSJ9
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTliZjM4OTctYTAxNS00OGFiLWExMDYtMjg3ZTJkNDRiMDM1IiwidCI6Ijg3OTk3NzA5LWRlYzQtNDJmZi1hMDM3LTJlNDNmZWRjMzllNSJ9)
 
 Link to Presentation Video
 
